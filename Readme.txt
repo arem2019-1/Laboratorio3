@@ -10,3 +10,8 @@
 
     4.3.2 Se pudo realizar las operaciones para que recibiendo cierta instruccion del cliente, el servidor 
         retornara la operacion correcta.
+
+
+    4.4. Se pudo conectar de manera exitosa desde el broswer
+
+    4.5.1   
