@@ -12,6 +12,7 @@
         retornara la operacion correcta.
 
 
-    4.4. Se pudo conectar de manera exitosa desde el broswer
+    4.4. Se pudo conectar de manera exitosa desde el broswer y descargar tanto texto como imagenes.
 
-    4.5.1   
+    4.5.1   Se pudo realizar el servidor en UDP y que responde la hora cada 5 segundos. 
+            Y aun se apague el servidor el cliente sigue manteniendo la ultima hora recibida

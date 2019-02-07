@@ -14,7 +14,7 @@ public class DatagramTimeClient {
 
     static Timer timer;
     static int reloj = 0;
-    static long hora = 0;
+    static String hora ="";
 
     public static void time() {
         timer = new Timer();
@@ -59,9 +59,9 @@ public class DatagramTimeClient {
                     if (received != null) {
                         System.out.println("La hora es nueva: " + received);
                         
-                        //hora = Integer.parseInt(received);
+                        hora = received;
                     } else {
-                        System.out.println("La hora es: ");
+                        System.out.println("La hora es: "+hora);
 
                     }
                 }
